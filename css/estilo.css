@@ -1,0 +1,73 @@
+
+body {
+	 background-image: url(http://p1.pichost.me/i/37/1605592.jpg);
+}
+h3 {
+
+	font-size: 30px;
+	color:white;
+}
+nav {
+	background-image: url(http://p1.pichost.me/i/37/1605592.jpg);
+	color:white;
+	text-align: left;
+	font-size: 20px;
+    text-decoration: bold;
+	margin: 0 880px 0 0;
+}
+section {
+   
+	color:white;
+	background-color:black;
+	border:2px solid;
+	border-color:white;
+	border-radius:20px;
+	margin: 0 250px 0 50px;
+	margin: 2em;
+}
+
+}
+a {
+color:white;
+text-decoration: none;
+font-size:black;
+font-family:black;
+}
+table {
+	color:white;
+}
+
+aside
+{
+	margin:auto;
+	padding: auto;
+	border: 1px solid #fff;
+	height: 200;
+	width: 400;
+	text-align: center;
+	float:center
+	
+}
+p {
+   
+	color:white;
+	background-color:white;
+	border:2px solid;
+	border-color:white;
+	border-radius:20px;
+	margin: 0 250px 0 50px;
+	margin: 2em;
+}
+ol {
+	color:white
+}
+dt {
+	color:white
+}
+dl{
+	color:white
+}
+dd {
+	color:white
+}
+
